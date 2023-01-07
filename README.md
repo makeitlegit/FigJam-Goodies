@@ -1,3 +1,5 @@
+![cover](/cover.png)
+
 # Free FigJam content
 
 This is content I've created for annotating stuff in FigJam. Enjoy!
