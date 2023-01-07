@@ -2,7 +2,8 @@
 
 This is content I've created for annotating stuff in FigJam. Enjoy!
 
-## [Washi Tape](/washitape)  
+## Washi Tape
+- [Under Construction](washitape/UnderConstruction.png) // 'cause there's always _something_ that isn't ready for prime time
 
 # About this
 
